@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+#container {
+    width: 30%;
+    margin: auto;
+}
+
+#nom {
+    display:inline-block;
+}
+
+#age{
+    display: inline-block;
+}
